@@ -1,2 +1,2 @@
 # dotnetMQ
-https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html Production [Non-]Suitability Disclaimer
+https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html
