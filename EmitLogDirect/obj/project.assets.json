@@ -34,7 +34,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "RabbitMQ.Client"
+      "RabbitMQ.Client >= 5.1.*"
     ]
   },
   "packageFolders": {
@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\dotnetMQ\\EmitLogDirect\\EmitLogDirect.csproj",
+      "projectUniqueName": "c:\\Projects\\dotnetMQ\\EmitLogDirect\\EmitLogDirect.csproj",
       "projectName": "EmitLogDirect",
-      "projectPath": "C:\\Projects\\dotnetMQ\\EmitLogDirect\\EmitLogDirect.csproj",
+      "projectPath": "c:\\Projects\\dotnetMQ\\EmitLogDirect\\EmitLogDirect.csproj",
       "packagesPath": "C:\\Users\\D.CHEUSOV\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\dotnetMQ\\EmitLogDirect\\obj\\",
+      "outputPath": "c:\\Projects\\dotnetMQ\\EmitLogDirect\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\D.CHEUSOV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,7 +76,7 @@
         "dependencies": {
           "RabbitMQ.Client": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[5.1.*, )"
           }
         },
         "imports": [

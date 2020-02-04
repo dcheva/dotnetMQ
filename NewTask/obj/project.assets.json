@@ -34,7 +34,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "RabbitMQ.Client >= 5.1.2"
+      "RabbitMQ.Client >= 5.1.*"
     ]
   },
   "packageFolders": {
@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\dotnetMQ\\NewTask\\NewTask.csproj",
+      "projectUniqueName": "c:\\Projects\\dotnetMQ\\NewTask\\NewTask.csproj",
       "projectName": "NewTask",
-      "projectPath": "C:\\Projects\\dotnetMQ\\NewTask\\NewTask.csproj",
+      "projectPath": "c:\\Projects\\dotnetMQ\\NewTask\\NewTask.csproj",
       "packagesPath": "C:\\Users\\D.CHEUSOV\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\dotnetMQ\\NewTask\\obj\\",
+      "outputPath": "c:\\Projects\\dotnetMQ\\NewTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\D.CHEUSOV\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,7 +76,7 @@
         "dependencies": {
           "RabbitMQ.Client": {
             "target": "Package",
-            "version": "[5.1.2, )"
+            "version": "[5.1.*, )"
           }
         },
         "imports": [

@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\dotnetMQ\\Receive\\Receive.csproj",
+      "projectUniqueName": "c:\\Projects\\dotnetMQ\\Receive\\Receive.csproj",
       "projectName": "Receive",
-      "projectPath": "C:\\Projects\\dotnetMQ\\Receive\\Receive.csproj",
+      "projectPath": "c:\\Projects\\dotnetMQ\\Receive\\Receive.csproj",
       "packagesPath": "C:\\Users\\D.CHEUSOV\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\dotnetMQ\\Receive\\obj\\",
+      "outputPath": "c:\\Projects\\dotnetMQ\\Receive\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\D.CHEUSOV\\AppData\\Roaming\\NuGet\\NuGet.Config",

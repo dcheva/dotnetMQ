@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DebugType>portable</DebugType>
+    <AssemblyName>ReceiveLogsTopic</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <PackageId>ReceiveLogsTopic</PackageId>
+    
+    <RuntimeFrameworkVersion>3.1.0</RuntimeFrameworkVersion>
+  </PropertyGroup>
+
+  <ItemGroup Condition=" '$(TargetFramework)' == 'netcoreapp3.1' ">
+    <PackageReference Include="RabbitMQ.Client" Version="5.1.*" />
+  </ItemGroup>
+
+</Project>

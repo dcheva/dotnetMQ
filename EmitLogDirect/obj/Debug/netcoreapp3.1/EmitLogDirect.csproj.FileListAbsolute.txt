@@ -1,0 +1,13 @@
+C:\Projects\dotnetMQ\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.exe
+C:\Projects\dotnetMQ\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.deps.json
+C:\Projects\dotnetMQ\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.runtimeconfig.json
+C:\Projects\dotnetMQ\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.runtimeconfig.dev.json
+C:\Projects\dotnetMQ\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.dll
+C:\Projects\dotnetMQ\EmitLogDirect\bin\Debug\netcoreapp3.1\EmitLogDirect.pdb
+C:\Projects\dotnetMQ\EmitLogDirect\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Projects\dotnetMQ\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.csprojAssemblyReference.cache
+C:\Projects\dotnetMQ\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.AssemblyInfoInputs.cache
+C:\Projects\dotnetMQ\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.AssemblyInfo.cs
+C:\Projects\dotnetMQ\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.csproj.CopyComplete
+C:\Projects\dotnetMQ\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.dll
+C:\Projects\dotnetMQ\EmitLogDirect\obj\Debug\netcoreapp3.1\EmitLogDirect.pdb

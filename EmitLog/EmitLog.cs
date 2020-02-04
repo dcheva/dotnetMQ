@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Text;
 using RabbitMQ.Client;
 
@@ -11,20 +11,15 @@ class EmitLog {
 
             var message = GetMessage (args);
             var body = Encoding.UTF8.GetBytes (message);
-            channel.BasicPublish (exchange: "logs",
-                routingKey: "",
-                basicProperties : null,
-                body : body);
+            channel.BasicPublish (exchange: "logs", routingKey: "", basicProperties : null, body : body);
             Console.WriteLine (" [x] Sent {0}", message);
         }
 
-        // Console.WriteLine (" Press [enter] to exit.");
-        // Console.ReadLine ();
+        Console.WriteLine (" Press [enter] to exit.");
+        Console.ReadLine ();
     }
 
     private static string GetMessage (string[] args) {
-        return ((args.Length > 0) ?
-            string.Join (" ", args) :
-            "info: Hello World!");
+        return ((args.Length > 0) ? string.Join (" ", args) : "info: Hello World!");
     }
 }

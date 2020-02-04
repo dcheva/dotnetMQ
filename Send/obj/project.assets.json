@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\dotnetMQ\\Send\\Send.csproj",
+      "projectUniqueName": "c:\\Projects\\dotnetMQ\\Send\\Send.csproj",
       "projectName": "Send",
-      "projectPath": "C:\\Projects\\dotnetMQ\\Send\\Send.csproj",
+      "projectPath": "c:\\Projects\\dotnetMQ\\Send\\Send.csproj",
       "packagesPath": "C:\\Users\\D.CHEUSOV\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\dotnetMQ\\Send\\obj\\",
+      "outputPath": "c:\\Projects\\dotnetMQ\\Send\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\D.CHEUSOV\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,10 @@
+C:\Projects\dotnetMQ\PublisherConfirms\bin\Debug\netcoreapp2.1\PublisherConfirms.deps.json
+C:\Projects\dotnetMQ\PublisherConfirms\bin\Debug\netcoreapp2.1\PublisherConfirms.runtimeconfig.json
+C:\Projects\dotnetMQ\PublisherConfirms\bin\Debug\netcoreapp2.1\PublisherConfirms.runtimeconfig.dev.json
+C:\Projects\dotnetMQ\PublisherConfirms\bin\Debug\netcoreapp2.1\PublisherConfirms.dll
+C:\Projects\dotnetMQ\PublisherConfirms\bin\Debug\netcoreapp2.1\PublisherConfirms.pdb
+C:\Projects\dotnetMQ\PublisherConfirms\obj\Debug\netcoreapp2.1\PublisherConfirms.csprojAssemblyReference.cache
+C:\Projects\dotnetMQ\PublisherConfirms\obj\Debug\netcoreapp2.1\PublisherConfirms.AssemblyInfoInputs.cache
+C:\Projects\dotnetMQ\PublisherConfirms\obj\Debug\netcoreapp2.1\PublisherConfirms.AssemblyInfo.cs
+C:\Projects\dotnetMQ\PublisherConfirms\obj\Debug\netcoreapp2.1\PublisherConfirms.dll
+C:\Projects\dotnetMQ\PublisherConfirms\obj\Debug\netcoreapp2.1\PublisherConfirms.pdb
